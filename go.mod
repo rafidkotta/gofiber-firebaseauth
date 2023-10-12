@@ -1,4 +1,4 @@
-module github.com/sacsand/gofiber-firebaseauth
+module github.com/rafidkotta/gofiber-firebaseauth
 
 go 1.15
 
