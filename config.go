@@ -13,8 +13,8 @@ import (
 )
 
 type User struct {
-	EmailVerified bool
-	UserID, Email string
+	EmailVerified        bool
+	UserID, Email, Phone string
 }
 
 // Config defines the config for middleware
